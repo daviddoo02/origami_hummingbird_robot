@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Hummingbird design by Michael G. LaFosse.
+- Hummingbird design by Michael G. LaFosse, video tutorial [here](https://www.youtube.com/watch?v=OLE_0i4Fpp0&t=10s)
