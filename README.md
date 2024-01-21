@@ -2,7 +2,7 @@
 
 This project, developed as a major project for the MEEN 408 Robotic Manipulators class at Texas A&M, features an origami hummingbird whose wings are actuated by fishing lines through a CAM driven by a small DC motor. The robot senses objects in front of it using a sonar sensor and "flies" toward them using a servo.
 
-![Cover](assets/cover_image.jpg)
+![Cover](assets/cover_image.jpg){:width="400px"}
 
 ## A closer look
 
@@ -18,8 +18,8 @@ This project, developed as a major project for the MEEN 408 Robotic Manipulators
 3. The Servo is activated to move the hummingbird toward the detected object.
 
 <p align="center">
-  <a href="assets/initial_test.mp4"><img src="assets/initial_test.gif" alt="Video 1"></a>
-  <a href="assets/flapping_hifreq.mp4"><img src="assets/flapping_hifreq.gif" alt="Video 2"></a>
+  <a href="assets/initial_test.mp4"><img src="assets/initial_test.gif" alt="Video 1" width="400"></a>
+  <a href="assets/flapping_hifreq.mp4"><img src="assets/flapping_hifreq.gif" alt="Video 2" width="400"></a>
 </p>
 
 ## Required Materials
